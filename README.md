@@ -1,6 +1,6 @@
 # Enhancing-Fire-Detection-through-Background-Interference-Elimination-using-Flame-Matting
 
-The paper will be published in TIP
+This paper will be submitted at TIP
 
 ## code
 
