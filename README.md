@@ -1,0 +1,1 @@
+# Enhancing-Fire-Detection-through-Background-Interference-Elimination-using-Flame-Matting
